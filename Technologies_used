@@ -1,0 +1,4 @@
+Technologies used:
+Programming languages: Python
+Libraries: PRAW (to extract comments and posts from Reddit), matplotlib (to plot graphs), hugging face transform (sentiment analysis and emotion analysis), pandas (data manipulation and filtering), seaborn (to plot graphs)
+NLP tools: hugging face transform (sentiment analysis and emotion analysis)
